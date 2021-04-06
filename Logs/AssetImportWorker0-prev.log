@@ -1,0 +1,994 @@
+Using pre-set license
+Built from '2020.2/staging' branch; Version is '2020.2.3f1 (8ff31bc5bf5b) revision 9433883'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home Single Language; OS build 18362.836; Version 1903; 64bit' Language: 'en' Physical Memory: 7973 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+E:\Unity\2020.2.3f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+E:/Alienide/Game Menu
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+53155
+Successfully changed project path to: E:/Alienide/Game Menu
+E:/Alienide/Game Menu
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 28.84 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.3f1 (8ff31bc5bf5b)
+[Subsystems] Discovering subsystems at path E:/Unity/2020.2.3f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path E:/Alienide/Game Menu/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce MX250 (ID=0x1d13)
+    Vendor:   
+    VRAM:     4027 MB
+    Driver:   26.21.14.4145
+Initialize mono
+Mono path[0] = 'E:/Unity/2020.2.3f1/Editor/Data/Managed'
+Mono path[1] = 'E:/Unity/2020.2.3f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'E:/Unity/2020.2.3f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56812
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: E:/Unity/2020.2.3f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001724 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 29.79 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.087 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000792 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.937 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.08 seconds
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1099 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 57.1 MB.
+System memory in use after: 57.1 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1545.
+Total: 2.026600 ms (FindLiveObjects: 0.227900 ms CreateObjectMapping: 0.078900 ms MarkObjects: 1.618400 ms  DeleteObjects: 0.099300 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Animations/PButton.controller
+  artifactKey: Guid(d02b68af82254fb4ba3e92f71aba73a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/PButton.controller using Guid(d02b68af82254fb4ba3e92f71aba73a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '92e4e3e7393030223e072ac8bfd6d753') in 0.048963 seconds
+  Import took 0.051667 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000857 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.862 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1094 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 57.0 MB.
+System memory in use after: 57.1 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1547.
+Total: 1.890100 ms (FindLiveObjects: 0.165200 ms CreateObjectMapping: 0.044400 ms MarkObjects: 1.610700 ms  DeleteObjects: 0.068200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000734 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.959 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1094 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 57.1 MB.
+System memory in use after: 57.1 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1549.
+Total: 2.908200 ms (FindLiveObjects: 0.366100 ms CreateObjectMapping: 0.163300 ms MarkObjects: 2.252400 ms  DeleteObjects: 0.122100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 352.439508 seconds.
+  path: Assets/Animations
+  artifactKey: Guid(d0cdd39a9f684244d835fbe0db000019) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations using Guid(d0cdd39a9f684244d835fbe0db000019) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '982d72835b33229bbdb25661761a7066') in 0.004391 seconds
+  Import took 0.007917 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.154297 seconds.
+  path: Assets/Animations/OButton.controller
+  artifactKey: Guid(fd8324e5f116904438e679bc86f03442) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/OButton.controller using Guid(fd8324e5f116904438e679bc86f03442) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a754ee513a9a5294fe130f3d8224d411') in 0.008981 seconds
+  Import took 0.013027 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003567 seconds.
+  path: Assets/Animations/OButton.controller
+  artifactKey: Guid(fd8324e5f116904438e679bc86f03442) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/OButton.controller using Guid(fd8324e5f116904438e679bc86f03442) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a754ee513a9a5294fe130f3d8224d411') in 0.002027 seconds
+  Import took 0.003835 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002933 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.891 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1094 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 57.1 MB.
+System memory in use after: 57.2 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1551.
+Total: 3.567300 ms (FindLiveObjects: 0.256800 ms CreateObjectMapping: 0.067900 ms MarkObjects: 3.164800 ms  DeleteObjects: 0.075800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001744 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.965 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1094 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 57.1 MB.
+System memory in use after: 57.2 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1553.
+Total: 2.231600 ms (FindLiveObjects: 0.275800 ms CreateObjectMapping: 0.056600 ms MarkObjects: 1.834100 ms  DeleteObjects: 0.063400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001086 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.765 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.31 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1094 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 57.1 MB.
+System memory in use after: 57.2 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1555.
+Total: 1.539400 ms (FindLiveObjects: 0.134300 ms CreateObjectMapping: 0.035600 ms MarkObjects: 1.307100 ms  DeleteObjects: 0.061200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000780 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.21 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.747 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.21 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1094 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 57.1 MB.
+System memory in use after: 57.2 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1557.
+Total: 1.629100 ms (FindLiveObjects: 0.118500 ms CreateObjectMapping: 0.031100 ms MarkObjects: 1.395400 ms  DeleteObjects: 0.083300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000720 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.658 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1094 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 57.1 MB.
+System memory in use after: 57.2 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1559.
+Total: 1.631800 ms (FindLiveObjects: 0.137800 ms CreateObjectMapping: 0.024300 ms MarkObjects: 1.346400 ms  DeleteObjects: 0.122200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 5461.293037 seconds.
+  path: Assets/Animations/Panel.controller
+  artifactKey: Guid(a74c927b810c2ae49ad709a9db4e2b17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Panel.controller using Guid(a74c927b810c2ae49ad709a9db4e2b17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46641408b152b18c5dcd82b4f4a7df55') in 0.023924 seconds
+  Import took 0.028253 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 392.090844 seconds.
+  path: Assets/Animations/popDown.anim
+  artifactKey: Guid(47749bd877be5ef429e3c892b3e64f36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/popDown.anim using Guid(47749bd877be5ef429e3c892b3e64f36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a652d5cdb1c5ab6de8f08232c148ca8d') in 0.007168 seconds
+  Import took 0.010049 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001966 seconds.
+  path: Assets/Animations/popDown.anim
+  artifactKey: Guid(47749bd877be5ef429e3c892b3e64f36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/popDown.anim using Guid(47749bd877be5ef429e3c892b3e64f36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a652d5cdb1c5ab6de8f08232c148ca8d') in 0.002340 seconds
+  Import took 0.004419 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.027115 seconds.
+  path: Assets/Animations/popUP.anim
+  artifactKey: Guid(5589acc0b9bfe8e4ca3a0dd4b12c0c6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/popUP.anim using Guid(5589acc0b9bfe8e4ca3a0dd4b12c0c6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c7e39be2d45be4eefb00a315f97264d') in 0.004632 seconds
+  Import took 0.007428 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000807 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.009 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1095 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 57.2 MB.
+System memory in use after: 57.2 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1562.
+Total: 1.696600 ms (FindLiveObjects: 0.124400 ms CreateObjectMapping: 0.033800 ms MarkObjects: 1.452300 ms  DeleteObjects: 0.084900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001283 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.842 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.21 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1095 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 57.2 MB.
+System memory in use after: 57.2 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1564.
+Total: 2.362600 ms (FindLiveObjects: 0.131100 ms CreateObjectMapping: 0.036700 ms MarkObjects: 2.131800 ms  DeleteObjects: 0.061600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001362 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.922 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.29 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1096 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 57.2 MB.
+System memory in use after: 57.3 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1567.
+Total: 2.628000 ms (FindLiveObjects: 0.136600 ms CreateObjectMapping: 0.042300 ms MarkObjects: 2.337700 ms  DeleteObjects: 0.109500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000903 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.31 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.195 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.37 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1096 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 57.2 MB.
+System memory in use after: 57.3 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1569.
+Total: 2.364400 ms (FindLiveObjects: 0.187300 ms CreateObjectMapping: 0.052300 ms MarkObjects: 2.034400 ms  DeleteObjects: 0.088400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 733.293060 seconds.
+  path: Assets/MenuManager.cs
+  artifactKey: Guid(12fd73b1bfe5d244b84387f48efe2b0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MenuManager.cs using Guid(12fd73b1bfe5d244b84387f48efe2b0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '021109f87a6ab8e8c92331a0a08fdcd6') in 0.015259 seconds
+  Import took 0.018544 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.572234 seconds.
+  path: Assets/ShareManager.cs
+  artifactKey: Guid(9c64c8043b70b9445b44372d4b599647) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ShareManager.cs using Guid(9c64c8043b70b9445b44372d4b599647) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d4bf9e87a19e0774c75d0d18cce1dcf') in 0.002781 seconds
+  Import took 0.005604 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000815 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.936 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1096 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 57.2 MB.
+System memory in use after: 57.3 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1571.
+Total: 1.710200 ms (FindLiveObjects: 0.124400 ms CreateObjectMapping: 0.034800 ms MarkObjects: 1.489000 ms  DeleteObjects: 0.060500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 48.908644 seconds.
+  path: Assets/ShareManager.cs
+  artifactKey: Guid(9c64c8043b70b9445b44372d4b599647) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ShareManager.cs using Guid(9c64c8043b70b9445b44372d4b599647) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5404b04311463a797b9c8fb8e3782a69') in 0.003962 seconds
+  Import took 0.006313 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001181 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.36 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.773 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.35 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1096 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 57.2 MB.
+System memory in use after: 57.3 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1573.
+Total: 2.595000 ms (FindLiveObjects: 0.205200 ms CreateObjectMapping: 0.068100 ms MarkObjects: 2.236300 ms  DeleteObjects: 0.083500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 166.604105 seconds.
+  path: Assets/Animations/Panel 1.controller
+  artifactKey: Guid(1a733ffcb56fa734aa308201dba3bd56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Panel 1.controller using Guid(1a733ffcb56fa734aa308201dba3bd56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d21948020c4a9cef9d9e1591bcf5998') in 0.024104 seconds
+  Import took 0.026632 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 19.126040 seconds.
+  path: Assets/Animations/Panel.controller
+  artifactKey: Guid(a74c927b810c2ae49ad709a9db4e2b17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Panel.controller using Guid(a74c927b810c2ae49ad709a9db4e2b17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5295674f42417db427d6db6c95c75482') in 0.003010 seconds
+  Import took 0.012560 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000733 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.758 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1096 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 57.2 MB.
+System memory in use after: 57.3 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1575.
+Total: 1.600500 ms (FindLiveObjects: 0.119500 ms CreateObjectMapping: 0.033900 ms MarkObjects: 1.389200 ms  DeleteObjects: 0.056800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001207 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.082 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.44 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1096 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 57.2 MB.
+System memory in use after: 57.3 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1577.
+Total: 5.661700 ms (FindLiveObjects: 0.252400 ms CreateObjectMapping: 0.155300 ms MarkObjects: 5.138500 ms  DeleteObjects: 0.100200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001420 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.246 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.47 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1096 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 57.2 MB.
+System memory in use after: 57.3 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1579.
+Total: 7.118000 ms (FindLiveObjects: 0.263900 ms CreateObjectMapping: 0.297300 ms MarkObjects: 5.864000 ms  DeleteObjects: 0.682200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 4582.776170 seconds.
+  path: Assets/Simple Buttons/Buttons Style 12 (Square Blue)/ButtonsStyle12_01.png
+  artifactKey: Guid(965335f18fd89e94ab933d8c4c5aa4c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Buttons/Buttons Style 12 (Square Blue)/ButtonsStyle12_01.png using Guid(965335f18fd89e94ab933d8c4c5aa4c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb42d38251bb10c8583713607375d332') in 0.112266 seconds
+  Import took 0.116884 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000879 seconds.
+  path: Assets/Simple Buttons/Buttons Style 12 (Square Blue)/ButtonsStyle12_24.png
+  artifactKey: Guid(1f7a0c3bac45add4080d673465cb12d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Buttons/Buttons Style 12 (Square Blue)/ButtonsStyle12_24.png using Guid(1f7a0c3bac45add4080d673465cb12d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c27084000cd6d37aadd6979a47c3e8b1') in 0.022043 seconds
+  Import took 0.024524 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000347 seconds.
+  path: Assets/Simple Buttons/Buttons Style 12 (Square Blue)/ButtonsStyle12_20.png
+  artifactKey: Guid(dd915313e676ee64b919a5553ee975a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Buttons/Buttons Style 12 (Square Blue)/ButtonsStyle12_20.png using Guid(dd915313e676ee64b919a5553ee975a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a9dd02fdd159115094f3ee66e00dd6b') in 0.015518 seconds
+  Import took 0.017639 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000380 seconds.
+  path: Assets/Simple Buttons/Buttons Style 12 (Square Blue)/ButtonsStyle12_15.png
+  artifactKey: Guid(d72c9ca556cb4dd48beebf50d13f6d30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Buttons/Buttons Style 12 (Square Blue)/ButtonsStyle12_15.png using Guid(d72c9ca556cb4dd48beebf50d13f6d30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac87d9d24f697168d7af35063b1786ee') in 0.013838 seconds
+  Import took 0.016818 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000395 seconds.
+  path: Assets/Simple Buttons/Buttons Style 12 (Square Blue)/ButtonsStyle12_05.png
+  artifactKey: Guid(014f99505f66c694bbb77c29acb89ebb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Buttons/Buttons Style 12 (Square Blue)/ButtonsStyle12_05.png using Guid(014f99505f66c694bbb77c29acb89ebb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b0aafff80e52d3c8a5080f65cfa41527') in 0.014810 seconds
+  Import took 0.017136 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000420 seconds.
+  path: Assets/Simple Buttons/Buttons Style 12 (Square Blue)/ButtonsStyle12_08.png
+  artifactKey: Guid(e6a9278844d8c36468d2d1a301e8ef74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Buttons/Buttons Style 12 (Square Blue)/ButtonsStyle12_08.png using Guid(e6a9278844d8c36468d2d1a301e8ef74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '38e83a5be68307299882efb40c00fb02') in 0.014031 seconds
+  Import took 0.016633 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000357 seconds.
+  path: Assets/Simple Buttons/Buttons Style 12 (Square Blue)/ButtonsStyle12_12.png
+  artifactKey: Guid(40bae0e0e11b04c44be80f0ac467d25e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Buttons/Buttons Style 12 (Square Blue)/ButtonsStyle12_12.png using Guid(40bae0e0e11b04c44be80f0ac467d25e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '010d64765b58829c38259f0c4973f1b8') in 0.013143 seconds
+  Import took 0.015833 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000392 seconds.
+  path: Assets/Simple Buttons/Buttons Style 12 (Square Blue)/ButtonsStyle12_06.png
+  artifactKey: Guid(e4d9adb9905bdb94c92cddd78ddf19b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Buttons/Buttons Style 12 (Square Blue)/ButtonsStyle12_06.png using Guid(e4d9adb9905bdb94c92cddd78ddf19b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c7d139948ad79d7b3203094c4bcad51') in 0.015819 seconds
+  Import took 0.018463 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000328 seconds.
+  path: Assets/Simple Buttons/Buttons Style 12 (Square Blue)/ButtonsStyle12_23.png
+  artifactKey: Guid(6a3dff46d2d468f4284bbafdf98603fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Buttons/Buttons Style 12 (Square Blue)/ButtonsStyle12_23.png using Guid(6a3dff46d2d468f4284bbafdf98603fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bbe81087bc516519b4889557f8bb906f') in 0.020503 seconds
+  Import took 0.023929 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000414 seconds.
+  path: Assets/Simple Buttons/Buttons Style 12 (Square Blue)/ButtonsStyle12_25.png
+  artifactKey: Guid(56f75b2ab69daf945bee4d67566b912b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Buttons/Buttons Style 12 (Square Blue)/ButtonsStyle12_25.png using Guid(56f75b2ab69daf945bee4d67566b912b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3dbb20538fee5988e5d66cde11d734da') in 0.013318 seconds
+  Import took 0.018184 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000425 seconds.
+  path: Assets/Simple Buttons/Buttons Style 12 (Square Blue)/ButtonsStyle12_07.png
+  artifactKey: Guid(6db3f7967e5b61449a619eaab32abd9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Buttons/Buttons Style 12 (Square Blue)/ButtonsStyle12_07.png using Guid(6db3f7967e5b61449a619eaab32abd9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9df24911a36ca4595d784c162e6395d7') in 0.019228 seconds
+  Import took 0.023424 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000400 seconds.
+  path: Assets/Simple Buttons/Buttons Style 12 (Square Blue)/ButtonsStyle12_09.png
+  artifactKey: Guid(f85ad493e19e3f142a1b535f9ae5f920) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Buttons/Buttons Style 12 (Square Blue)/ButtonsStyle12_09.png using Guid(f85ad493e19e3f142a1b535f9ae5f920) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5528a4321adc600b34adc9826111ed21') in 0.017937 seconds
+  Import took 0.020740 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000340 seconds.
+  path: Assets/Simple Buttons/Buttons Style 12 (Square Blue)/ButtonsStyle12_04.png
+  artifactKey: Guid(1d40638c0e1e880458f8546fc0956618) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Buttons/Buttons Style 12 (Square Blue)/ButtonsStyle12_04.png using Guid(1d40638c0e1e880458f8546fc0956618) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '771a32338d7d6d6d1df29376206a9a4f') in 0.017668 seconds
+  Import took 0.022229 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000468 seconds.
+  path: Assets/Simple Buttons/Buttons Style 12 (Square Blue)/ButtonsStyle12_18.png
+  artifactKey: Guid(632541a47cedad94a922fbb0b602694d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Buttons/Buttons Style 12 (Square Blue)/ButtonsStyle12_18.png using Guid(632541a47cedad94a922fbb0b602694d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ba9450376a7b8bd9fd3271fbf04a508') in 0.014426 seconds
+  Import took 0.017208 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000309 seconds.
+  path: Assets/Simple Buttons/Buttons Style 12 (Square Blue)/ButtonsStyle12_17.png
+  artifactKey: Guid(ab0393ec51ba0e942aff39e0584bed2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Buttons/Buttons Style 12 (Square Blue)/ButtonsStyle12_17.png using Guid(ab0393ec51ba0e942aff39e0584bed2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b7df6cf971533793b64e71339695a0e2') in 0.017390 seconds
+  Import took 0.020421 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000288 seconds.
+  path: Assets/Simple Buttons/Buttons Style 12 (Square Blue)/ButtonsStyle12_19.png
+  artifactKey: Guid(89f8514532a1a2241bf4351250e1a1f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Buttons/Buttons Style 12 (Square Blue)/ButtonsStyle12_19.png using Guid(89f8514532a1a2241bf4351250e1a1f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0449937e2ea34187b036992b0c0b6ff6') in 0.013512 seconds
+  Import took 0.016106 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000320 seconds.
+  path: Assets/Simple Buttons/Buttons Style 12 (Square Blue)/ButtonsStyle12_10.png
+  artifactKey: Guid(c2c794b1feef55e4896dbdbdc6d7372f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Buttons/Buttons Style 12 (Square Blue)/ButtonsStyle12_10.png using Guid(c2c794b1feef55e4896dbdbdc6d7372f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '194daa4505f4075e541856faa854ac8b') in 0.014642 seconds
+  Import took 0.017536 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000872 seconds.
+  path: Assets/Simple Buttons/Buttons Style 12 (Square Blue)/ButtonsStyle12_02.png
+  artifactKey: Guid(74967bb4db403244f80d6fdeb84544ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Buttons/Buttons Style 12 (Square Blue)/ButtonsStyle12_02.png using Guid(74967bb4db403244f80d6fdeb84544ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '49c466eb10512ed2a1e23a7833118e15') in 0.019301 seconds
+  Import took 0.023026 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000388 seconds.
+  path: Assets/Simple Buttons/Buttons Style 12 (Square Blue)/ButtonsStyle12_16.png
+  artifactKey: Guid(ebe7ff650776b1f49b94635377cc5f08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Buttons/Buttons Style 12 (Square Blue)/ButtonsStyle12_16.png using Guid(ebe7ff650776b1f49b94635377cc5f08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3bd5496776d068c111ab051644e4c914') in 0.015224 seconds
+  Import took 0.018299 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000295 seconds.
+  path: Assets/Simple Buttons/Buttons Style 12 (Square Blue)/ButtonsStyle12_22.png
+  artifactKey: Guid(0c63ab3ff32e15142b880880e40d1c65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Buttons/Buttons Style 12 (Square Blue)/ButtonsStyle12_22.png using Guid(0c63ab3ff32e15142b880880e40d1c65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e72233ade0987e495009ed2e262760c9') in 0.016724 seconds
+  Import took 0.019810 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000329 seconds.
+  path: Assets/Simple Buttons/Buttons Style 12 (Square Blue)/ButtonsStyle12_11.png
+  artifactKey: Guid(44bd0065df0d39044b49733aba4d8891) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Buttons/Buttons Style 12 (Square Blue)/ButtonsStyle12_11.png using Guid(44bd0065df0d39044b49733aba4d8891) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f73c44df9452c297c12d3836e2d9bb5b') in 0.015585 seconds
+  Import took 0.018551 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000341 seconds.
+  path: Assets/Simple Buttons/Buttons Style 12 (Square Blue)/ButtonsStyle12_03.png
+  artifactKey: Guid(3ad0ca426d0c71a4ba5c03d33bfc0f4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Buttons/Buttons Style 12 (Square Blue)/ButtonsStyle12_03.png using Guid(3ad0ca426d0c71a4ba5c03d33bfc0f4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9232d9f7288746c4fdee9a5adeca93a5') in 0.015115 seconds
+  Import took 0.018635 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000347 seconds.
+  path: Assets/Simple Buttons/Buttons Style 12 (Square Blue)/ButtonsStyle12_13.png
+  artifactKey: Guid(d0fb54b12d56f2a46ae41e8348d57321) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Buttons/Buttons Style 12 (Square Blue)/ButtonsStyle12_13.png using Guid(d0fb54b12d56f2a46ae41e8348d57321) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c487c93b928678e328359ec39a08264') in 0.014995 seconds
+  Import took 0.017564 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000431 seconds.
+  path: Assets/Simple Buttons/Buttons Style 12 (Square Blue)/ButtonsStyle12_21.png
+  artifactKey: Guid(85587b919015a454a874d7e5b93efe18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Buttons/Buttons Style 12 (Square Blue)/ButtonsStyle12_21.png using Guid(85587b919015a454a874d7e5b93efe18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd771b5018dbfc451874ef968d64bc052') in 0.013300 seconds
+  Import took 0.017686 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000520 seconds.
+  path: Assets/Simple Buttons/Buttons Style 12 (Square Blue)/ButtonsStyle12_14.png
+  artifactKey: Guid(51f65961b67f7b74988196dd54f01e1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Buttons/Buttons Style 12 (Square Blue)/ButtonsStyle12_14.png using Guid(51f65961b67f7b74988196dd54f01e1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c621bd88e3f52c747a117530a5eb5660') in 0.019677 seconds
+  Import took 0.023404 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000318 seconds.
+  path: Assets/Simple Buttons/Buttons Style 12 (Square Blue)/ButtonsStyle12_26.png
+  artifactKey: Guid(0dbefe0955fe0cf40bcb72a74b624833) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Buttons/Buttons Style 12 (Square Blue)/ButtonsStyle12_26.png using Guid(0dbefe0955fe0cf40bcb72a74b624833) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '776f58a07a6061621d2fce408ad8e5a1') in 0.013475 seconds
+  Import took 0.016055 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.931328 seconds.
+  path: Assets/Simple Buttons/Buttons Style 10 (Square Light Blue)
+  artifactKey: Guid(180d89e3c870c814ca902ade7cca688c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Buttons/Buttons Style 10 (Square Light Blue) using Guid(180d89e3c870c814ca902ade7cca688c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44c0c38981156b16b934389640e80e23') in 0.001945 seconds
+  Import took 0.004772 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.609382 seconds.
+  path: Assets/Simple Buttons/Buttons Style 10 (Square Light Blue)/ButtonsStyle10_01.png
+  artifactKey: Guid(ee6ce9be098414c4a9e01da32a62f9c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Buttons/Buttons Style 10 (Square Light Blue)/ButtonsStyle10_01.png using Guid(ee6ce9be098414c4a9e01da32a62f9c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4660ec3afb5d362f4a5dee3db3e17414') in 0.019453 seconds
+  Import took 0.022124 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000519 seconds.
+  path: Assets/Simple Buttons/Buttons Style 10 (Square Light Blue)/ButtonsStyle10_08.png
+  artifactKey: Guid(4d9b592efeeb3954892d4674a90a8d3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Buttons/Buttons Style 10 (Square Light Blue)/ButtonsStyle10_08.png using Guid(4d9b592efeeb3954892d4674a90a8d3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cab380d6435d9b056382cd9a32078b12') in 0.011909 seconds
+  Import took 0.014002 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000289 seconds.
+  path: Assets/Simple Buttons/Buttons Style 10 (Square Light Blue)/ButtonsStyle10_12.png
+  artifactKey: Guid(bcc39723781b0cc4db21950744494d0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Buttons/Buttons Style 10 (Square Light Blue)/ButtonsStyle10_12.png using Guid(bcc39723781b0cc4db21950744494d0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f2268350061f410d5453431ebee9b427') in 0.014560 seconds
+  Import took 0.017551 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000385 seconds.
+  path: Assets/Simple Buttons/Buttons Style 10 (Square Light Blue)/ButtonsStyle10_18.png
+  artifactKey: Guid(14643e1f960f8774abb834582fa4e4cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Buttons/Buttons Style 10 (Square Light Blue)/ButtonsStyle10_18.png using Guid(14643e1f960f8774abb834582fa4e4cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '80d1cd73d74c2a132b6557d243f5c767') in 0.014540 seconds
+  Import took 0.017917 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000365 seconds.
+  path: Assets/Simple Buttons/Buttons Style 10 (Square Light Blue)/ButtonsStyle10_24.png
+  artifactKey: Guid(7d6c8bb41eaeaca43bd678398581621b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Buttons/Buttons Style 10 (Square Light Blue)/ButtonsStyle10_24.png using Guid(7d6c8bb41eaeaca43bd678398581621b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7fb170a147d99473abe1e17ab60d8f7f') in 0.014126 seconds
+  Import took 0.016842 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000474 seconds.
+  path: Assets/Simple Buttons/Buttons Style 10 (Square Light Blue)/ButtonsStyle10_19.png
+  artifactKey: Guid(8677b1403f9777a45a20973060ddf666) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Buttons/Buttons Style 10 (Square Light Blue)/ButtonsStyle10_19.png using Guid(8677b1403f9777a45a20973060ddf666) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd56c9381e9826f6f6b9b59a90893a3f') in 0.013575 seconds
+  Import took 0.016701 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000472 seconds.
+  path: Assets/Simple Buttons/Buttons Style 10 (Square Light Blue)/ButtonsStyle10_25.png
+  artifactKey: Guid(de180e99ecfcea345bfa2dd8949dbd92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Buttons/Buttons Style 10 (Square Light Blue)/ButtonsStyle10_25.png using Guid(de180e99ecfcea345bfa2dd8949dbd92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6add228184992a10bf513224e64a374e') in 0.090000 seconds
+  Import took 0.092671 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000740 seconds.
+  path: Assets/Simple Buttons/Buttons Style 10 (Square Light Blue)/ButtonsStyle10_04.png
+  artifactKey: Guid(8384d13f6d4b91b47af59eb7276c3dd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Buttons/Buttons Style 10 (Square Light Blue)/ButtonsStyle10_04.png using Guid(8384d13f6d4b91b47af59eb7276c3dd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '012632509b0feff4bc44656647604c27') in 0.014900 seconds
+  Import took 0.018135 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000947 seconds.
+  path: Assets/Simple Buttons/Buttons Style 10 (Square Light Blue)/ButtonsStyle10_17.png
+  artifactKey: Guid(9aee90530f1416d47a0a634e4f3ef351) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Buttons/Buttons Style 10 (Square Light Blue)/ButtonsStyle10_17.png using Guid(9aee90530f1416d47a0a634e4f3ef351) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c041d2855b40082d497b6d412f8d168') in 0.017375 seconds
+  Import took 0.021337 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000402 seconds.
+  path: Assets/Simple Buttons/Buttons Style 10 (Square Light Blue)/ButtonsStyle10_09.png
+  artifactKey: Guid(1ff45295039ec2147a4d1738671d206a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Buttons/Buttons Style 10 (Square Light Blue)/ButtonsStyle10_09.png using Guid(1ff45295039ec2147a4d1738671d206a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a153457730a0de6aa9745419691725b3') in 0.022547 seconds
+  Import took 0.025536 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000425 seconds.
+  path: Assets/Simple Buttons/Buttons Style 10 (Square Light Blue)/ButtonsStyle10_10.png
+  artifactKey: Guid(fbeab67cb04ee0e4fb8d6b16e814e677) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Buttons/Buttons Style 10 (Square Light Blue)/ButtonsStyle10_10.png using Guid(fbeab67cb04ee0e4fb8d6b16e814e677) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9635ff670ecfe91dc713ee0243095b31') in 0.016743 seconds
+  Import took 0.019482 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000379 seconds.
+  path: Assets/Simple Buttons/Buttons Style 10 (Square Light Blue)/ButtonsStyle10_21.png
+  artifactKey: Guid(cfd45c20e48a4a64381afa480860db52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Buttons/Buttons Style 10 (Square Light Blue)/ButtonsStyle10_21.png using Guid(cfd45c20e48a4a64381afa480860db52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc923730293af9af1f9b8743a599004d') in 0.014364 seconds
+  Import took 0.017009 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000338 seconds.
+  path: Assets/Simple Buttons/Buttons Style 10 (Square Light Blue)/ButtonsStyle10_11.png
+  artifactKey: Guid(27d89d715e84e8f4cb3b12437c0614ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Buttons/Buttons Style 10 (Square Light Blue)/ButtonsStyle10_11.png using Guid(27d89d715e84e8f4cb3b12437c0614ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d69b2005e2633266a7377521029dda8') in 0.014511 seconds
+  Import took 0.018481 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000546 seconds.
+  path: Assets/Simple Buttons/Buttons Style 10 (Square Light Blue)/ButtonsStyle10_23.png
+  artifactKey: Guid(4d84691ee9c44bb41b2973774d685a2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Buttons/Buttons Style 10 (Square Light Blue)/ButtonsStyle10_23.png using Guid(4d84691ee9c44bb41b2973774d685a2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b203c724226df86cb7cd8e36b279fec1') in 0.017560 seconds
+  Import took 0.022018 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000376 seconds.
+  path: Assets/Simple Buttons/Buttons Style 10 (Square Light Blue)/ButtonsStyle10_26.png
+  artifactKey: Guid(3850159463911b546b7f5997f17309f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Buttons/Buttons Style 10 (Square Light Blue)/ButtonsStyle10_26.png using Guid(3850159463911b546b7f5997f17309f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aea467ebf5d8596ee220af04e58e6262') in 0.014947 seconds
+  Import took 0.018316 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000338 seconds.
+  path: Assets/Simple Buttons/Buttons Style 10 (Square Light Blue)/ButtonsStyle10_16.png
+  artifactKey: Guid(fce4a6e3db791ac439579bf36e02da3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Buttons/Buttons Style 10 (Square Light Blue)/ButtonsStyle10_16.png using Guid(fce4a6e3db791ac439579bf36e02da3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df88a59e659620ba94d09be761172a5b') in 0.015935 seconds
+  Import took 0.018433 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000381 seconds.
+  path: Assets/Simple Buttons/Buttons Style 10 (Square Light Blue)/ButtonsStyle10_20.png
+  artifactKey: Guid(e12d180ae91f4ad489cb22e089a0e139) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Buttons/Buttons Style 10 (Square Light Blue)/ButtonsStyle10_20.png using Guid(e12d180ae91f4ad489cb22e089a0e139) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6fcc7e02ab1cce477986ffe950513d92') in 0.015143 seconds
+  Import took 0.017666 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000368 seconds.
+  path: Assets/Simple Buttons/Buttons Style 10 (Square Light Blue)/ButtonsStyle10_05.png
+  artifactKey: Guid(cbf7b9199bb38454aaa1642c264db28e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Buttons/Buttons Style 10 (Square Light Blue)/ButtonsStyle10_05.png using Guid(cbf7b9199bb38454aaa1642c264db28e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5da272a63a28f071b555b13a8a730c3') in 0.014493 seconds
+  Import took 0.017931 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000453 seconds.
+  path: Assets/Simple Buttons/Buttons Style 10 (Square Light Blue)/ButtonsStyle10_02.png
+  artifactKey: Guid(671fce46564e77b4cb3c2e8248068f58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Buttons/Buttons Style 10 (Square Light Blue)/ButtonsStyle10_02.png using Guid(671fce46564e77b4cb3c2e8248068f58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8bf20f3357d5e24469bf831004f9b605') in 0.016910 seconds
+  Import took 0.019934 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000405 seconds.
+  path: Assets/Simple Buttons/Buttons Style 10 (Square Light Blue)/ButtonsStyle10_03.png
+  artifactKey: Guid(40431b1f3fc152545a2f88a8901f3b00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Buttons/Buttons Style 10 (Square Light Blue)/ButtonsStyle10_03.png using Guid(40431b1f3fc152545a2f88a8901f3b00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e61eb6d8cbe659b1e12db39845169ef4') in 0.015409 seconds
+  Import took 0.019752 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000445 seconds.
+  path: Assets/Simple Buttons/Buttons Style 10 (Square Light Blue)/ButtonsStyle10_15.png
+  artifactKey: Guid(3b4741206ffc7e0469bda7714f8479aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Buttons/Buttons Style 10 (Square Light Blue)/ButtonsStyle10_15.png using Guid(3b4741206ffc7e0469bda7714f8479aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36f72f5e92350a99c98e0e09956b96ae') in 0.013629 seconds
+  Import took 0.016953 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000383 seconds.
+  path: Assets/Simple Buttons/Buttons Style 10 (Square Light Blue)/ButtonsStyle10_06.png
+  artifactKey: Guid(5a6c712c241f45b41b44d6b40a939ae1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Buttons/Buttons Style 10 (Square Light Blue)/ButtonsStyle10_06.png using Guid(5a6c712c241f45b41b44d6b40a939ae1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5f935f066577511263552c166888b73e') in 0.014514 seconds
+  Import took 0.017755 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000463 seconds.
+  path: Assets/Simple Buttons/Buttons Style 10 (Square Light Blue)/ButtonsStyle10_07.png
+  artifactKey: Guid(3ffa73e3b97b8cb4e8908a8407d3eaae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Buttons/Buttons Style 10 (Square Light Blue)/ButtonsStyle10_07.png using Guid(3ffa73e3b97b8cb4e8908a8407d3eaae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c740aa7cfaceea9c2e8f3ad6c00416b') in 0.015681 seconds
+  Import took 0.018394 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000374 seconds.
+  path: Assets/Simple Buttons/Buttons Style 10 (Square Light Blue)/ButtonsStyle10_14.png
+  artifactKey: Guid(93e4802c98e075e489e9c69952af801b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Buttons/Buttons Style 10 (Square Light Blue)/ButtonsStyle10_14.png using Guid(93e4802c98e075e489e9c69952af801b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '65bab3b9efbc02681a0bd4bfd4e27630') in 0.015801 seconds
+  Import took 0.018674 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000506 seconds.
+  path: Assets/Simple Buttons/Buttons Style 10 (Square Light Blue)/ButtonsStyle10_13.png
+  artifactKey: Guid(ce0905bc33801214cadbf5f87a970fab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Buttons/Buttons Style 10 (Square Light Blue)/ButtonsStyle10_13.png using Guid(ce0905bc33801214cadbf5f87a970fab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b8e93c0b195ee4908ca834c7cb56895') in 0.013421 seconds
+  Import took 0.017839 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000431 seconds.
+  path: Assets/Simple Buttons/Buttons Style 10 (Square Light Blue)/ButtonsStyle10_22.png
+  artifactKey: Guid(9e558f98a01ec0846923aedb3e42719e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Buttons/Buttons Style 10 (Square Light Blue)/ButtonsStyle10_22.png using Guid(9e558f98a01ec0846923aedb3e42719e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3cacd0826be773e195ea5fe587cf0aee') in 0.019128 seconds
+  Import took 0.023241 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001681 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.675 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.27 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1096 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 60.4 MB.
+System memory in use after: 60.5 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1617.
+Total: 3.081800 ms (FindLiveObjects: 0.236200 ms CreateObjectMapping: 0.066900 ms MarkObjects: 2.703000 ms  DeleteObjects: 0.072300 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
